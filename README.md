@@ -1,2 +1,3 @@
-# prime-api-service-blnx
-Automated issue comment bot repository
+# Prime Api Service Blnx
+
+Automated issue comment bot repository.
